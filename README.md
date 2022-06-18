@@ -1,2 +1,2 @@
-# Proto-call-game-
-contains all codes and assets for the game prototype
+# Proto-call game-
+contains all C# codes for my game prototype
